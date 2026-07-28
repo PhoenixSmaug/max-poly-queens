@@ -48,4 +48,4 @@ Alexis Langlois-Rémillard's research is funded by a postdoctoral research schol
 ### License
 This project is licensed under the MIT License - see LICENSE file for details. If you use this code for academic purposes, please cite the paper: 
 
-Alexis Langlois-Rémillard and Mia Müßig, Maximum Independent Queen Set on Polyominoes is NP-Complete, [ARXIV LINK WILL BE ADDED SHORTLY], 2026.
+Alexis Langlois-Rémillard and Mia Müßig, Maximum independent queen set on polyominoes is NP-complete, https://arxiv.org/abs/2607.24668, 2026.
